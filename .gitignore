@@ -187,6 +187,12 @@ uv.lock
 # Rope project settings
 .ropeproject
 
+# my own projects
+Rpt_Ds/
+tutorials/
+biomni_data_cache/
+
+
 # mkdocs documentation
 /site
 
